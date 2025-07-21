@@ -93,6 +93,10 @@ Comprehensive error handling for:
 - **Component Integration**: User interactions and data flow
 - **End-to-End Scenarios**: Complete user workflows
 
+### AI Disclosure 
+
+I've definitely used AI on calculating and fixing advance calculations of formulas and writing some test cases (although I could write some of the test cases but I've asked AI to generate some of them so that I can fill what I've missed).
+
 ### Looms
 
 **Building a Mini Spreadsheet with Formula Functionality 📊**  
